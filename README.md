@@ -11,7 +11,7 @@
 <br/>
 
  
-<h3> 📫 Get in touch! </h3>
+<h3><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Get in touch! </h3>
 LinkedIn: www.linkedin.com/in/luanalessa </br>
 E-mail: <a href="mailto:lessalsn@gmail.com">lessalsn@gmail.com</a>
 
