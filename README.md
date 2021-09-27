@@ -21,7 +21,7 @@ const luanalessa = {
   communities: {
                         aspiring: "Alpha EdTech",
                         coorganizer: "Coletivo Donzelinha",
-                        volunteer: "Coletivo Donzelinha"                      
+                        volunteer: "Agentes da Alegria"                      
                },
   funFact: "I like spoilers and bad jokes "
 }
