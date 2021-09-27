@@ -1,16 +1,20 @@
 # Hello World! ✋
-<p align = "right" > <img src = "https://komarev.com/ghpvc/?username=luanalessa&color=blue" /> </p>
+
+<p align = "center" > 
+<img src = "https://img.shields.io/badge/-luanalessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> 
+<img src = "https://img.shields.io/badge/-lessalsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lessalsn@gmail.com)](mailto:kanna6501@gmail.com" />
+<img src = "https://img.shields.io/badge/-lessalsn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" />
+</p>
+
+<br/>
 
 <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
 
 
 
-<!-- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&theme=react  ">
-</p>
-<br/>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=luanalessa.luanalessa)
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=luanalessa.luanalessa)
  -->
  
  ```javascript
@@ -30,10 +34,8 @@ const luanalessa = {
 
 <br/>
 
-<h3> 📫 Get in touch! </h3>
-LinkedIn: www.linkedin.com/in/luanalessa </br>
-E-mail: <a href="mailto:lessalsn@gmail.com">lessalsn@gmail.com</a>
-
-
-
----
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&theme=react  ">
+   
+</p>
+<br/>
