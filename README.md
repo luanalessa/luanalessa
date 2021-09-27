@@ -1,9 +1,9 @@
 # Hello World! ✋
 
 <p align = "center" > 
-<img src = "https://img.shields.io/badge/-luanalessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> 
-<img src = "https://img.shields.io/badge/-lessalsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lessalsn@gmail.com)](mailto:kanna6501@gmail.com" />
-<img src = "https://img.shields.io/badge/-lessalsn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" />
+<a href="https://www.linkedin.com/in/luanalessa/"><img src = "https://img.shields.io/badge/-luanalessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> </a>
+<a href="mailto:lessalsn@gmail.com"><img src = "https://img.shields.io/badge/-lessalsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lessalsn@gmail.com)](mailto:kanna6501@gmail.com" /></a>
+<a href="https://www.instagram.com/lessalsn/"><img src = "https://img.shields.io/badge/-lessalsn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
 </p>
 
 <br/>
