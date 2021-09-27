@@ -16,8 +16,8 @@
  ```javascript
 const luanalessa = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, SQL, Python, Javascript, Java, C Sharp],
-  tools: [React, Node, Styled-Components],
+  code: [HTML, CSS, SQL, Python, Javascript, C Sharp],
+  tools: [React, Node, Styled-Components, jQuery],
   communities: {
                         aspiring: "Alpha EdTech",
                         coorganizer: "Coletivo Donzelinha",
