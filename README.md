@@ -6,16 +6,13 @@
 <a href="https://www.instagram.com/lessalsn/"><img src = "https://img.shields.io/badge/-lessalsn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
 </p>
 
-<br/>
-
+<p align = "center" >
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Full+Stack+Developer;Always%20learning%20new%20things&center=true"></a>
+</p>  
 <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
 
 
-
-
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=luanalessa.luanalessa)
- -->
+ 
  
  ```javascript
 const luanalessa = {
@@ -35,7 +32,8 @@ const luanalessa = {
 <br/>
 
  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&theme=react  ">
-   
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&theme=react  ">   
 </p>
 <br/>
+
+
