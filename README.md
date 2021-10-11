@@ -1,4 +1,4 @@
-<h1> Hello World! ✋ </h1>
+<h1>✋  Hello World! </h1>
 
 <p align = "center" > 
 <a href="https://www.linkedin.com/in/luanalessa/"><img src = "https://img.shields.io/badge/-luanalessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> </a>
@@ -20,7 +20,7 @@ const luanalessa = {
   technologies:  {
                         frontEnd: [HTML, CSS, SASS, Javascript],
                         backEnd: [Node.js, Express.js, PostgreSQL, Python],
-                        libraries: [Bootstrap, React.js, JQuery]
+                        libraries: [Bootstrap, React.js, jQuery]
     },
   learning: [C Sharp, .Net],
   communities: {
@@ -35,10 +35,14 @@ const luanalessa = {
 
 <br/>
 
+<h2>📃 Github Stats</h2>
+
+
+<br/>
 
 <div align="center">
-    <a href="#"><img alt="Lessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="219"/></a>
-    <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="219"/></a>
+    <a href="#"><img alt="Lessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
+    <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
     <br/>
      <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
