@@ -19,7 +19,7 @@ const luanalessa = {
   pronouns: "she" | "her",
   technologies:  {
                         frontEnd: [HTML, CSS, SASS, Javascript],
-                        backEnd: [Node.js, Express.js, PostgreSQL, Python],
+                        backEnd: [Node.js, PostgreSQL, Python],
                         libraries: [Bootstrap, React.js, JQuery]
     },
   learning: [C Sharp, .Net],
