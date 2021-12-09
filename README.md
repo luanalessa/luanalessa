@@ -7,7 +7,7 @@
 </p>
 
 <p align = "center" >
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Full+Stack+Developer;Always%20learning%20new%20things&center=true&title_color=79c0ff"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&title_color=79c0ff"></a>
 </p>  
 <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
 
@@ -45,7 +45,6 @@ const luanalessa = {
     <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
     <br/>
      <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </div>
 
   <hr/>
