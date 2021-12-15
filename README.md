@@ -9,22 +9,25 @@
 <p align = "center" >
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&title_color=79c0ff"></a>
 </p>  
-<p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
-
+<!-- <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
+ -->
 
  
  
  ```javascript
-const luanalessa = {
+const lessa = {
+  habitat: "Ceara 🌵, Brazil",
   pronouns: "she" | "her",
   technologies:  {
                         frontEnd: [HTML, CSS, SASS, Javascript],
                         backEnd: [Node.js, PostgreSQL, Python],
-                        libraries: [Bootstrap, React.js, JQuery]
+                        libraries: [React.js, JQuery]
     },
   learning: [C Sharp, .Net],
   communities: {
+                        tutor: "Driven Education",
                         aspiring: "Alpha EdTech",
+                        apprentice: "Stone Pagamentos",
                         coorganizer: "Coletivo Donzelinha",
                         volunteer: "Agentes da Alegria"                      
                },
