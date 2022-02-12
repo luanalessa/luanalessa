@@ -18,8 +18,8 @@ const lessa = {
   pronouns: "she" | "her",
   technologies:  {
                         frontEnd: [HTML, CSS, SASS, Javascript],
-                        backEnd: [Node.js, PostgreSQL, Python],
-                        libraries: [React.js, JQuery]
+                        backEnd: [Nodejs, PostgreSQL, Python],
+                        libraries: [Reactjs, JQuery]
     },
   learning: [C Sharp, .Net],
   communities: {
