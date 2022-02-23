@@ -10,7 +10,7 @@
 <!-- <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
  -->
 
- 
+<!--  
  
  ```javascript
 const lessa = {
@@ -32,7 +32,7 @@ const lessa = {
   funFact: "I like spoilers and bad jokes."
 }
 ```
-
+ -->
 
 <br/>
 
@@ -54,10 +54,3 @@ const lessa = {
     <a href="#"><img alt="Lessa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luanalessa&custom_title=Luana%20Lessa's%20Contribution%20Graph&bg_color=161b22&color=79c0ff&line=ffffff&point=79c0ff&hide_border=true" /></a>
   <div> 
 
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/luanalessa" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-   </div>
