@@ -9,30 +9,26 @@
 
 <!-- <p align="justify">My name is Luana Lessa, but you can call me Lessa. I'm from Ceara 🌵, Brazil, and I'm  passionate about programming. I'm currently working as an aspiring full stack developer at <a href="https://sejaalphaedtech.org.br/">Alpha EdTech</a>. I also like to spend time learning new stuff and debating about social issues on <a href="https://www.instagram.com/coletivodonzelinha/">Coletivo Donzelinha</a>. </p></br>
  -->
-
-<!--  
+  
  
- ```javascript
+ ```typescript
 const lessa = {
   habitat: "Ceara 🌵, Brazil",
-  pronouns: "she" | "her",
   technologies:  {
-                        frontEnd: [HTML, CSS, SASS, Javascript],
-                        backEnd: [Nodejs, PostgreSQL, Python],
-                        libraries: [Reactjs, JQuery]
+                        frontend: [HTML, CSS, SASS, Javascript, TypeScript, ReactJS],
+                        backend: [Express, Nodejs, Prisma, Jest, Python],
+                        database: [MongoDB, PostgreSQL, Redis],
+                        devops: [Docker, GitHub Actions, Splunk, AWS, Azure]
     },
-  learning: [C Sharp, .Net],
+  learning: [C Sharp, .Net, Kubernetes],
   communities: {
                         tutor: "Driven Education",
-                        aspiring: "Alpha EdTech",
-                        apprentice: "Stone Pagamentos",
-                        coorganizer: "Coletivo Donzelinha",
+                        dev: "Stone Pagamentos",
                         volunteer: "Agentes da Alegria"                      
                },
   funFact: "I like spoilers and bad jokes."
 }
 ```
- -->
 
 <br/>
 
