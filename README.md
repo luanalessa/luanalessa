@@ -15,7 +15,7 @@
 const lessa = {
   habitat: "Ceara 🌵, Brazil",
   technologies:  {
-                        frontend: [HTML, CSS, SASS, Javascript, TypeScript, ReactJS],
+                        frontend: [HTML, CSS, SASS, JavaScript, TypeScript, ReactJS],
                         backend: [Express, Nodejs, Prisma, Jest, Python],
                         database: [MongoDB, PostgreSQL, Redis],
                         devops: [Docker, GitHub Actions, Splunk, AWS, Azure]
