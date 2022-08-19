@@ -12,15 +12,15 @@
   
  
  ```typescript
-const lessa = {
+const luanalessa = {
   habitat: "Ceara 🌵, Brazil",
   technologies:  {
-                        frontend: [HTML, CSS, SASS, JavaScript, TypeScript, ReactJS],
-                        backend: [Express, Nodejs, Prisma, Jest, Python],
-                        database: [MongoDB, PostgreSQL, Redis],
-                        devops: [Docker, GitHub Actions, Splunk, AWS, Azure]
+                        frontend: ["HTML", "CSS", "SASS", "JavaScript", "TypeScript", "ReactJS"],
+                        backend: ["Express", "Nodejs", "Prisma", "Jest", "Python"],
+                        database: ["MongoDB", "PostgreSQL", "Redis"],
+                        devops: ["Docker", "GitHub Actions", "Splunk", "AWS", "Azure"]
     },
-  learning: [C Sharp, .Net, Kubernetes],
+  learning: ["C Sharp", ".Net", "Kubernetes"],
   communities: {
                         tutor: "Driven Education",
                         dev: "Stone Pagamentos",
@@ -38,8 +38,8 @@ const lessa = {
 <br/>
 
 <div align="center">
-    <a href="#"><img alt="Lessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
-    <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
+    <a href="#"><img alt="Lessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="160"/></a>
+    <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="160"/></a>
     <br/>
      <br/>
   </div>
