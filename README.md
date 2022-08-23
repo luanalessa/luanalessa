@@ -24,7 +24,7 @@ const luanalessa = {
   communities: {
                         tutor: "Driven Education",
                         dev: "Stone Pagamentos",
-                        volunteer: "Agentes da Alegria, AIESEC"                      
+                        volunteer: "AIESEC"                      
                },
   funFact: "I like spoilers and bad jokes."
 }
