@@ -22,7 +22,6 @@ const luanalessa = {
     },
   learning: ["C Sharp", ".Net", "Kubernetes"],
   communities: {
-                        tutor: "Driven Education",
                         dev: "Stone Pagamentos",
                         volunteer: "AIESEC"                      
                },
