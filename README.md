@@ -11,41 +11,20 @@
  -->
   
  
- ```typescript
-const luanalessa = {
-  habitat: "Ceara 🌵, Brazil",
-  technologies:  {
-                        frontend: ["HTML", "CSS", "SASS", "JavaScript", "TypeScript", "ReactJS"],
-                        backend: ["Express", "Nodejs", "Prisma", "Jest", "Python"],
-                        database: ["MongoDB", "PostgreSQL", "Redis"],
-                        devops: ["Docker", "GitHub Actions", "Splunk", "AWS", "Azure"]
-    },
-  learning: ["C Sharp", ".Net", "Kubernetes"],
-  communities: {
-                        dev: "Stone Pagamentos",
-                        volunteer: "AIESEC"                      
-               },
-  funFact: "I like spoilers and bad jokes."
-}
+ ```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class PersonalInformations:
+
+    def __init__(self):
+        self.name = "Luana Lessa"
+        self.role = "Software Engineer"
+        self.language_spoken = ["pt_CN", "en_BR"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+me = PersonalInformations()
+me.say_hi()
 ```
-
-<br/>
-
-<h2>📃 Github Stats</h2>
-
-
-<br/>
-
-<div align="center">
-    <a href="#"><img alt="Lessa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luanalessa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="160"/></a>
-    <a href="#"><img alt="Lessa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalessa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="160"/></a>
-    <br/>
-     <br/>
-  </div>
-
-  <hr/>
-
-  <div>
-    <a href="#"><img alt="Lessa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luanalessa&custom_title=Luana%20Lessa's%20Contribution%20Graph&bg_color=161b22&color=79c0ff&line=ffffff&point=79c0ff&hide_border=true" /></a>
-  <div> 
-
